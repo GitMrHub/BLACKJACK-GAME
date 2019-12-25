@@ -276,7 +276,7 @@ void About(HANDLE h) {
 	int ch;
 	SetConsoleTextAttribute(h, 240);
 	system("cls");
-	cout << "\nThis program was created by Selikhov Valery\nStudent of KA-81 group\nVersion 1.0.0\nLicensed product.\n\n\n" << endl;
+	cout << "\nThis program was created by \nVersion 1.0.0\nLicensed product.\n\n\n" << endl;
 
 	cout << "Enter ESC for exit......";
 
