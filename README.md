@@ -12,4 +12,4 @@ The value of cards two through ten is their pip value (2 through 10).\nFace card
 Rules of play:
 The players' object is to win money by creating card totals that turn out to be higher than the dealer's hand but do not exceed 21, or alternatively by allowing the dealer to take additional cards until he/she busts.
 On their turn, players must choose whether to \"HIT\" (take a card), \"stand\" (end their turn)
-After all boxes have finished playing, the dealer's hand is resolved by drawing cards until the hand busts or achieves a value of 17 or higher (a dealer total of 17 including an ace valued as 11,\nalso known as a \"soft 17\",must be drawn to in some games and must stand in others).
+After all boxes have finished playing, the dealer's hand is resolved by drawing cards until the hand busts or achieves a value of 17 or higher (a dealer total of 17 including an ace valued as 11, also known as a \"soft 17\",must be drawn to in some games and must stand in others).
